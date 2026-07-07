@@ -1,0 +1,21 @@
+{
+  "name": "samplebackend",
+  "version": "1.0.0",
+  "description": "A simple backend demo app",
+  "keywords": [
+    "simple",
+    "sample"
+  ],
+  "license": "ISC",
+  "author": "Pratimesh Pawar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
